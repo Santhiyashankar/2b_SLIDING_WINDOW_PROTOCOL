@@ -43,5 +43,6 @@ while True:
 ```
 ## OUPUT
 ![Screenshot (51)](https://github.com/ADARSH778/2b_SLIDING_WINDOW_PROTOCOL/assets/149347361/5e7c116f-a419-46f3-807b-e74bd5f92e5f)
-
+## RESULT
+Thus, python program to perform stop and wait protocol was successfully executed
 
